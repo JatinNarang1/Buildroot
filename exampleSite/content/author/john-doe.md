@@ -1,6 +1,7 @@
 +++
 title = "John Doe"
-image = "/images/author/john-doe.jpg"
+image = "/images/post/253959181_2044674489035721_5871082450947030258_n.jpg
+.jpg"
 description = "Front end developer"
 +++
 
