@@ -1,5 +1,5 @@
 +++
-title = "Welcome to head"
+title = "Welcome to Jatin's head"
 image = "/images/post/253959181_2044674489035721_5871082450947030258_n.jpg"
 author = "Jatin Narang"
 date = 2019-11-07T05:00:00Z
