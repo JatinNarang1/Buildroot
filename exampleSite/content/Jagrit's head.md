@@ -1,7 +1,7 @@
 +++
 title = "Inside Jatin's Head"
 image = "/images/post/post-2.jpg"
-author = "John Doe"
+author = Jatin Narang"
 date = 2019-11-07T05:00:00Z
 description = "This is meta description"
 categories = ["Design Tools"]
