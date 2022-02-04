@@ -1,7 +1,6 @@
 +++
 title = "Welcome to head"
-image = "/images/post/253959181_2044674489035721_5871082450947030258_n.jpg
-"
+image = "/images/post/253959181_2044674489035721_5871082450947030258_n.jpg"
 author = "Mark Dinn"
 date = 2019-11-07T05:00:00Z
 description = "This is meta description"
