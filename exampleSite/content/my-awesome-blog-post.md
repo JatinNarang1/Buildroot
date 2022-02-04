@@ -8,7 +8,7 @@ categories = ["Meta Data"]
 type = "post"
 
 +++
-So depression starts with constant despair. There's a thumping pain in your chest and your head starts throbbing with constant thoughts. I guess the reason behind it is feeling worthless and supposing you've goofed up on everything.
+So depression starts with constant despair . There's a thumping pain in your chest and your head starts throbbing with constant thoughts. I guess the reason behind it is feeling worthless and supposing you've goofed up on everything.
 
 But after some time you just become emotionally numb and you're now not in possession of your own life. There's an absolute drain of energy, and even uncomplicated chores seem impossible to execute. You eventually start losing the capacity to feel for e.g food doesn't taste as good as it used to, conversations now seem like a burden.
 
