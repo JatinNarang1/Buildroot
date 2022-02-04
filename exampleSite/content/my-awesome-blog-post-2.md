@@ -1,5 +1,5 @@
 +++
-title = "My awesome second blog post"
+title = "Inside Jatin's Head"
 image = "/images/post/post-2.jpg"
 author = "John Doe"
 date = 2019-11-07T05:00:00Z
@@ -8,16 +8,30 @@ categories = ["Design Tools"]
 type = "post"
 
 +++
-Are you Developer and recently started your own business and Already made a website to ensure online presence and wants to reach more people. but you are not getting as much as response from your targeted customer or you are unable to reach them. SEO(Search engine optimization)is the cheapest way to reach your customer or client. After 2000 the Internet is more easy access to common people and most of the netizens to find out information search on google/yahoo/bing like a search engine. So if your site ranks at the top of the SERP for your target keywords then sure you will get more valuable traffic to your site and it will help you a lot to grow your business.
+So depression starts with constant despair. There's a thumping pain in your chest and your head starts throbbing with constant thoughts. I guess the reason behind it is feeling worthless and supposing you've goofed up on everything.
 
-Above Paragraph, you see SERP or Keywords that are common SEO Term so Before starting learning SEO let's learn the term used by the SEO expert. It will smoothen your learning journey. Or if you are wishing to hire an SEO guy it will help you his task he/she doing and understand he/she going on the right path. So not making delay let dive…
+But after some time you just become emotionally numb and you're now not in possession of your own life. There's an absolute drain of energy, and even uncomplicated chores seem impossible to execute. You eventually start losing the capacity to feel for e.g food doesn't taste as good as it used to, conversations now seem like a burden.
 
-**Algorithm:** “Algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.” It is its definition. In SEO we basically mean A very sophisticated and complex program used by the search engine to find out data and indexing it, And when a user gives a data query this program also decides the best result to place in the SERP in order. All search engines use multiple algorithms combination on their data collection and result giving process in different stages.
+Self-loathing steps in now with overwhelming guilt. And the guilt begins to consume every inch of you. Periodically you just wanna hide, become invisible and flee away.
 
-**Algorithm Change:** All the search engine service providers always try to give the best results to their users. So they always working on updating, refreshing or making and implementing new algorithms. The search engine service provider never revealed the exact date of rolling out any updates or new algorithms to make an effective date. Normally they give a boundary of time like this week or this month, we are going to rolling out a major update or applying new this algorithm. They give this new algorithm a name and they always call it by the given name. Like, google spider, Google panda, etc. Most of the time After one to two week we can see and understand the update or change impact but sometimes it also happens quicker also.
+Slowly the will to breathe decreases but somehow the air keeps seeping in. So you just start pushing everybody that loves you as far away as possible because you don't deserve them. 
 
-* Algorithm Update: Search Engines regularly making minor changes in their system they normally don’t give an official announcement. But SEO related blogs and journals give the news what the changes made. So Keep update regular visit this industry-related community is important. And when the Major update come You must observe your ranking behavior and if you find you've got the penalty then quickly take necessary step undereating the guidelines given by search engine company.
+And you apply a clown face and pretend everything is cool and content while inside, you are exploding. You start being afraid of being alone with your own thoughts and not wanting anyone around you.
 
-* Algorithm Refresh: Search engine operator after a regular interval re-run the existing algorithm to find out the new spammer.
+Depression will make your friends uncomfortable and the price for having depression grows higher and higher with every lost friend, with every pill that will make you feel powerless.
 
-* New Algorithm: Improving search quality google and other search engines regularly bringing new algorithms. All new algorithm has its special purpose to serve in the total search engine working process.
+When you're finally on the verge of blowing up and you start despising yourself every day of your life, you might start having panic attacks to make things additionally intriguing.
+
+So during a panic attack, your limbs go numb and you can't breathe, an overwhelming crushing feeling that something terrible is gonna happen will activate your body's fight or flight response. You'll start perspiring and experience burning or tightness in your chest. This whole process lasts for around two to three minutes. And if you're in public. Voila!  
+
+After the first panic attack, your life changes, and things get much more superficial. You'll start accepting your worthless life and cage yourself in four walls. Apparently, you won't be able to express yourself confidently in public, and now you'll start to rehearse before you converse.
+
+Overwhelmed by the curse to rehearse verse by verse a conversation immersed in your mind that’s never conversed. You'll stop communicating
+and become silent even after mugging up all the words in the dictionary.
+
+And the funny part is you'll stop caring about stuff society regards substantial. So the few people left in your life whom you still haven't managed to drive away will start taking charge of your life and maybe take you to a therapist so that you can be functional again.
+
+The problem with therapy is you start hoping. Hoping that things would turn around for you and you'll be fixed. So for the first few weeks, you are honest with the therapist. Then you start to form a bond with him/her and start to care about his/her feelings and everything seems so wonderful. but of course, on the inside, you're just getting worse. And now to make others think you're fixed you start pretending. 
+
+So you'll start smiling and start hiding your scars now even from yourself. But you can't run away. I've never attempted suicide or anything I've never let it get that far because despite the fact that I am so fucked up and am in so much pain. I am scared, yeah I am so scared of hurting other people so I suffer alone . Seriously I don't give a shit that my career doesn't seem great, I don't even care about money. All I care about is not hurting my Maa, she is the reason I live, she needs me. So I smile for her, I act like I am better for her. I crack jokes to make her laugh. I don't believe in God but still, I keep my tears in and pray that someday I'll get okay.
+
